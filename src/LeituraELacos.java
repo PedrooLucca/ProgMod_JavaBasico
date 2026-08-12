@@ -94,7 +94,7 @@
         media = (double) soma / tamanho;
         maioresQueAMedia = maioresQue(media, vetor);
 
-        IO.println("RESULTADOS:");
+        IO.println("RESULTADOS");
         IO.println("============");
         IO.println("O vetor tem "+quantImpares+" números ímpares e "+(tamanho-quantImpares)+" pares.");
         IO.println(
